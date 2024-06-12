@@ -38,3 +38,15 @@ Note: This repository is still under development and I will continue to add feat
 
 
 
+
+
+
+
+
+![Screenshot from 2024-06-13 02-22-16](https://github.com/Mohammad-Moiz/MovieMate-/assets/127727314/888a8f1f-9e6a-4c74-886f-f84d16580992)
+
+
+
+
+
+
