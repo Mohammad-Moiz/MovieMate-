@@ -8,7 +8,8 @@ Note: This repository is still under development and I will continue to add feat
 
 
 
-[Uploading Screenshot from 2024-06-13 02-20-05.png…]()
+![Screenshot from 2024-06-13 02-19-45](https://github.com/Mohammad-Moiz/MovieMate-/assets/127727314/672cab9c-b291-4ced-a245-a10c5dfcc9b1)
+
 
 
 
