@@ -34,7 +34,7 @@ Note: This repository is still under development and I will continue to add feat
 
 
 
-![Screenshot from 2024-06-13 02-20-50](https://github.com/Mohammad-Moiz/MovieMate-/assets/127727314/0b4b2c75-47d8-49b1-b7f5-63266c01b349)
+
 
 
 
