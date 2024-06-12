@@ -1,0 +1,11 @@
+streamlit
+pickle
+requests
+numpy
+pandas
+scikit-learn
+textblob
+dotenv
+streamlit_option_menu
+hashlib
+firebase_admin
